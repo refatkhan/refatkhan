@@ -70,15 +70,18 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 ## 📊 GitHub Insights
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=refatkhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
-  <img src="https://streak-stats.demolab.com?user=refatkhan&theme=tokyonight&hide_border=false" height="170px" />
+  
+  <!-- GitHub Streak (shows highest streak & total) -->
+  <img src="https://streak-stats.demolab.com?user=refatkhan&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&fire=FF9C00&ring=7DF9FF&currStreakLabel=7DF9FF&sideLabels=7DF9FF" height="170px" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refatkhan&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" height="150px" />
 </p>
 
----
 
 ## 🏆 Achievements & Projects
 
