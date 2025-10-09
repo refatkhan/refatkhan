@@ -10,29 +10,32 @@
   <a href="https://reddit.com/user/u/refat-khan"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=refatkhan&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="refatkhan" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Web Developer** with a strong focus on the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
-I love creating **user-centric, scalable, and visually appealing** web applications that bring real-world ideas to life.
+I’m a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
+I’m passionate about crafting **interactive, scalable, and high-performing web applications** that make a difference.
 
 ### 👨‍💻 What I Do:
-- Develop dynamic and responsive **front-end interfaces** using React.js and Tailwind CSS  
-- Build robust **back-end REST APIs** with Node.js, Express, and MongoDB  
-- Implement **secure authentication** using Firebase and JWT  
-- Deploy applications on **Vercel, Render, and Firebase Hosting**  
-- Collaborate on full-stack solutions with performance and scalability in mind  
+- Build modern & responsive **React.js frontends** with Tailwind CSS  
+- Develop RESTful **backends using Node.js, Express & MongoDB**  
+- Integrate **Firebase authentication** and **JWT-based authorization**  
+- Manage full deployment pipelines via **Vercel, Render, and MongoDB Atlas**  
 
-### 🎯 My Current Focus:
-- Deep diving into **Next.js**, **TypeScript**, and **Advanced API Design**  
-- Exploring **Real-time Web Apps (Socket.io)** and **Serverless Architecture**  
+### 🎯 Current Focus:
+- Advancing skills in **Next.js**, **TypeScript**, and **API Security**  
+- Learning **Real-Time Apps** (Socket.io) and **Microservices Architecture**  
 
 ### 💬 Ask Me About:
-`React` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `JWT` · `REST APIs` · `Tailwind CSS`
+`React` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `Tailwind CSS` · `JWT` · `Vercel`
 
-📫 **Reach me at:** [refatkhan0@gmail.com](mailto:refatkhan0@gmail.com)  
-⚡ **Fun fact:** I believe that clean code and great UI/UX are two sides of the same coin.
+📫 **Email:** [refatkhan0@gmail.com](mailto:refatkhan0@gmail.com)  
+⚡ **Fun fact:** I love creating clean UI that feels effortless to use.
 
 ---
 
@@ -68,7 +71,7 @@ I love creating **user-centric, scalable, and visually appealing** web applicati
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=refatkhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=refatkhan&theme=tokyonight&hide_border=false" height="170px" />
+  <img src="https://streak-stats.demolab.com?user=refatkhan&theme=tokyonight&hide_border=false" height="170px" />
 </p>
 
 <p align="center">
@@ -77,14 +80,15 @@ I love creating **user-centric, scalable, and visually appealing** web applicati
 
 ---
 
-## 🏆 Achievements & Highlights
-- 🩺 Built **Medical Camp Management System** — Full MERN stack project featuring JWT Auth, Firebase, Stripe Payment & Admin Panel.  
-- 🩸 Developed a **Blood Donation Platform** with role-based access, real-time data, and ImageBB integration.  
-- 🏠 Created **Roommate Finder App (ShareNest)** with protected routes, search filters, and Firebase Authentication.  
-- 🍱 Designed **Food Sharing Platform** allowing real-time food requests and donations.  
-- 💳 Deployed and maintained **Node.js backends** on Vercel & Render with MongoDB Atlas.  
+## 🏆 Achievements & Projects
 
-> 💡 Each project is crafted with performance, security, and scalability at its core.
+- 🩺 **Medical Camp Management System** — MERN Stack app with JWT Auth, Firebase, Stripe Payments & Admin Panel.  
+- 🩸 **Blood Donation Platform** — Role-based donor management, ImageBB integration, and secure authentication.  
+- 🏠 **Roommate Finder (ShareNest)** — Firebase Auth, protected routes, and post management system.  
+- 🍱 **Food Sharing App** — Real-time food request and donation tracking system.  
+- 💳 **Secure Backends** — Deployed Node/Express servers with JWT Auth and MongoDB Atlas connections.  
+
+> 💡 Every project reflects my focus on clean UI, modular design, and scalable architecture.
 
 ---
 
@@ -101,10 +105,8 @@ I love creating **user-centric, scalable, and visually appealing** web applicati
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=refatkhan&label=Profile%20Views&color=6&icon=0&pretty=true" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=refatkhan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="refatkhan" />
 </p>
-
----
 
 <h4 align="center">✨ Always learning, building, and exploring new technologies ✨</h4>
 <p align="center">
