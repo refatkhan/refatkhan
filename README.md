@@ -34,7 +34,7 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 ### 💬 Ask Me About:
 `React` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `Tailwind CSS` · `JWT` · `Vercel`
 
-📫 **Email:** [refatkhan0@gmail.com](mailto:refatkhan0@gmail.com)  
+📫 **Email:** [refatkhan0@gmail.com](mailto:refatkhan807@gmail.com)  
 ⚡ **Fun fact:** I love creating clean UI that feels effortless to use.
 
 ---
