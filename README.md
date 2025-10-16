@@ -33,7 +33,7 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 - Integrate **Firebase authentication** and **JWT-based authorization**  
 - Manage full deployment pipelines via **Vercel, Render, and MongoDB Atlas**  
 
-### 🚀 Current Focas
+### 🚀 Current Focus
 - 🌐 Exploring and building projects using **Next.js**
 - 🏥 Developing a **role-based Medical Camp Management System**
 - 🔐 Experimenting with **API Security** and **Authentication**
@@ -41,10 +41,12 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 ### 💬 Ask Me About:
 `React` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `Tailwind CSS` · `JWT` · `Vercel`
 
-📫 **Email:** [refatkhan807@gmail.com](mailto:refatkhan807@gmail.com)  
-⚡ **Fun fact:** I love creating clean UI that feels effortless to use.
+### 📫 Contact Me
+- **Email:** [refatkhan.dev@gmail.com](mailto:refatkhan.dev@gmail.com)  
+- **WhatsApp:** [+8801904773224](https://wa.me/8801904773224)  
+- **Location:** Dhaka, Bangladesh  
 
----
+⚡ **Fun Fact:** I love creating clean UI that feels effortless to use.
 
 ## 🧠 Tech Stack
 
