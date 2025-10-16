@@ -33,9 +33,10 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 - Integrate **Firebase authentication** and **JWT-based authorization**  
 - Manage full deployment pipelines via **Vercel, Render, and MongoDB Atlas**  
 
-### 🎯 Current Focus:
-- Advancing skills in **Next.js**, **TypeScript**, and **API Security**  
-- Learning **Real-Time Apps** (Socket.io) and **Microservices Architecture**  
+### 🚀 Current Focas
+- 🌐 Exploring and building projects using **Next.js**
+- 🏥 Developing a **role-based Medical Camp Management System**
+- 🔐 Experimenting with **API Security** and **Authentication**
 
 ### 💬 Ask Me About:
 `React` · `Node.js` · `Express` · `MongoDB` · `Firebase` · `Tailwind CSS` · `JWT` · `Vercel`
