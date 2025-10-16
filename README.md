@@ -85,11 +85,22 @@ I’m passionate about crafting **interactive, scalable, and high-performing web
 
 ## 🏆 Achievements & Projects
 
-- 🩺 **Medical Camp Management System** — MERN Stack app with JWT Auth, Firebase, Stripe Payments & Admin Panel.  
-- 🩸 **Blood Donation Platform** — Role-based donor management, ImageBB integration, and secure authentication.  
-- 🏠 **Roommate Finder (ShareNest)** — Firebase Auth, protected routes, and post management system.  
-- 🍱 **Food Sharing App** — Real-time food request and donation tracking system.  
-- 💳 **Secure Backends** — Deployed Node/Express servers with JWT Auth and MongoDB Atlas connections.  
+### 🩺 [Medical Camp Management System](https://medical-camp-37f24.web.app/)
+- **Overview:** A MERN Stack project featuring authentication, Stripe payment, and admin dashboard.   
+- **Tech Used:** React, Node.js, Express, MongoDB, Firebase, Stripe  
+- **Features:** JWT Auth, Firebase Admin, Payment Integration, User Role Management  
+- **Dependencies:** `express`, `mongodb`, `cors`, `jsonwebtoken`, `stripe`,`dotenv` 
+### 🏠 [Roommate Finder (ShareNest)](https://roommate-finder0.web.app/)
+- **Overview:** A MERN Stack web app that connects people seeking roommates or rooms. Includes authentication, protected routes, and post management.  
+- **Tech Used:** React, Firebase, Node.js, Express, MongoDB, Tailwind CSS  
+- **Features:** Firebase Auth, Dark/Light Theme, Room Listing Management, User Dashboard  
+- **Dependencies:** `react-router`, `firebase`, `axios`, `tailwindcss`, `express`, `mongodb`  
+### 🍱 [Food Sharing App](https://food-sharing-2fa12.web.app/)
+- **Overview:** A community-driven food sharing platform where users can donate or request food items in real time.  
+- **Tech Used:** React, Node.js, Express, MongoDB, Firebase, Tailwind CSS  
+- **Features:** Food Request System, Status Updates, Donor Dashboard, Secure Authentication  
+- **Dependencies:** `express`, `mongodb`, `firebase`, `axios`, `react-router`, `cors`,   
+
 
 > 💡 Every project reflects my focus on clean UI, modular design, and scalable architecture.
 
