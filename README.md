@@ -1,5 +1,11 @@
+
+<!-- BANNER IMAGE -->
+<p align="center">
+  <img src="https://i.ibb.co/jR0HtjS/github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 <!-- HEADER SECTION -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078d7;">Refat Khan</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078d7;">Ismail Khan Refat</span></h1>
 <h3 align="center">💻 MERN Stack Developer | Transforming Ideas Into Interactive Web Solutions</h3>
 
 <p align="center">
