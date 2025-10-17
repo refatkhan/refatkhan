@@ -1,7 +1,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.ibb.co.com/BHrvJcTZ/Purple-Minimalist-App-Developer-New-Linked-In-Banner-1.png" alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co.com/kVZw6kKS/Linkdin-banner.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- HEADER SECTION -->
