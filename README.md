@@ -1,7 +1,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.ibb.co.com/kVZw6kKS/Linkdin-banner.jpg" alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co.com/7JNHPWDY/9441ce32-4277-4f0a-9b74-316d21a28c6a.jpg" alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- HEADER SECTION -->
